@@ -26,7 +26,7 @@ local function registerNode(color, name, onOpen, onClose)
             )
         end,
 
-        groups = {oddly_breakable_by_hand = 1}
+        groups = {cracky = 3}
     }
 )
 end
