@@ -1,6 +1,6 @@
 shared_storage = {}
 
-shared_storage.version = 1
+shared_storage.version = 2
 
 local path = minetest.get_modpath("shared_storage")
 
